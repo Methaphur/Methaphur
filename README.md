@@ -1,5 +1,5 @@
 - Hi, I’m @Methaphur aka Hari
-- I'm interested in networking , app dev and typing 
+- First year Int MSc student at NISER 
 - I’m currently learning Python and Colemak Layout 
 - You can reach me on :
 - Discord: Harii<3#3578
