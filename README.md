@@ -1,9 +1,9 @@
 - Hi, I’m @Methaphur aka Hari
 - First year Int MSc student at NISER 
-- I’m currently learning Python and Colemak Layout 
+- I’m currently just working with Python
 - You can reach me on :
 - Discord: Harii<3#3578
-- Instagram: https://www.instagram.com/_hx.ri_/
+- Email : harisankar.b@niser.ac.in
 
 <!---
 Methaphur/Methaphur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
