@@ -1,6 +1,5 @@
 - Hi, I’m @Methaphur aka Hari
-- First year Int MSc student at NISER 
-- I’m currently just working with Python
+- First year Int MSc student at NISER
 - You can reach me on :
 - Discord: Harii<3#3578
 - Email : harisankar.b@niser.ac.in
