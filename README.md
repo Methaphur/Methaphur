@@ -1,8 +1,8 @@
 - Hi, I’m @Methaphur aka Hari
 - First year Int MSc student at NISER
 - You can reach me on :
-- Discord: Harii<3#3578
-- Email : harisankar.b@niser.ac.in
+  - Discord : methaphur#3090
+  - Email   : harisankar.b@niser.ac.in
 
 <!---
 Methaphur/Methaphur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
