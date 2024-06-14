@@ -1,12 +1,10 @@
-- Hi, I’m @Methaphur aka Hari
-- Take a look at my webpage [methaphur.github.io](https://methaphur.github.io)
-- Second year Int MSc student at NISER
-- You can reach me on :
-  - Discord : methaphur#3090
-  - Email   : harisankar.b@niser.ac.in
+<h1 align="left">Hi, I'm Harisankar B</h1>
+
+ 
+ Math and CS guy ~~nerd~~ studying at [NISER](https://niser.ac.in/)
+
+- You can reach me on [**harisankar.b@niser.ac.in**](mailto:harisankar.b@niser.ac.in)
+- I post stuff here [methaphur.github.io](https://methaphur.github.io)
 
 
-<!---
-Methaphur/Methaphur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![methaphur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=methaphur&theme=gotham&show_icons=true&hide_border=false&layout=compact)
