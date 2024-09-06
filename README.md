@@ -3,8 +3,8 @@
  
  Math and CS guy ~~nerd~~ studying at [NISER](https://niser.ac.in/)
 
-- You can reach me on [**harisankar.b@niser.ac.in**](mailto:harisankar.b@niser.ac.in)
-- I post stuff here [methaphur.github.io](https://methaphur.github.io)
+- Checkout my personal webpage [methaphur.github.io](https://methaphur.github.io)
+- You can reach me at [**harisankar.b@niser.ac.in**](mailto:harisankar.b@niser.ac.in)
 
 
 ![methaphur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=methaphur&theme=gotham&show_icons=true&hide_border=false&layout=compact)
